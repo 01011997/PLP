@@ -1,0 +1,6 @@
+
+Vishu:
+https://github.com/Lezeper/spring-boot-ecommerce-dailyshop/tree/master/src/main/java/com/imlewis/service
+
+Neha:
+https://github.com/idugalic/micro-ecommerce/tree/master/microservices-recommendations/src/main/java/com/idugalic/recommendations
